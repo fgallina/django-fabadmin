@@ -1,0 +1,11 @@
+*.kpf
+*.pyc
+*~
+*.db
+.#*
+.project
+.settings
+.pydevproject
+.ropeproject
+.dir-locals
+
